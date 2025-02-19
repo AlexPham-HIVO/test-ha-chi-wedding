@@ -6,7 +6,7 @@
   font-family: "tabler-icons";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/tabler-icons.ttf") format("truetype");
+  src: url("../fonts/tabler-icons.woff2") format("woff2");
 }
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
